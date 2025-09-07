@@ -71,10 +71,14 @@ HospitalWasteManagement/
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository :
 
 ```powershell
-git clone <repository-url>
+# Example (HTTPS):
+git clone https://github.com/dabdul-wahab1988/HospitalWasteManagement.git
+
+
+
 cd HospitalWasteManagement
 ```
 
