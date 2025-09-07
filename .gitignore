@@ -21,3 +21,12 @@
 /sensivity.py
 /topsis_confidence_intervals.csv
 /topsis_rankings.csv
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
